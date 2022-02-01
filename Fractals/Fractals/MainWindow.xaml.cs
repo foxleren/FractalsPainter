@@ -149,7 +149,7 @@ namespace Fractals
         private void OptionSierpinskiCarpet_OnChecked(object sender, RoutedEventArgs e)
         {
             IndexOfChosenFractal = 4;
-            IterationSlider.Maximum = 6;
+            IterationSlider.Maximum = 5;
             SetDefaultSettings();
             SetDefaultCanvas();
         }

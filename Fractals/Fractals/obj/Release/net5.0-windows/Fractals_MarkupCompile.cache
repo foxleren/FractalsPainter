@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\foxle\Documents\GitHub\FractalsPainter\Fractals\Fractals\obj\Debug\net5.0-windows\
+C:\Users\foxle\Documents\GitHub\FractalsPainter\Fractals\Fractals\obj\Release\net5.0-windows\
 Fractals
 none
 false
-TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+TRACE;RELEASE;NET;NET5_0;NETCOREAPP
 C:\Users\foxle\Documents\GitHub\FractalsPainter\Fractals\Fractals\App.xaml
 11407045341
 
@@ -16,5 +16,5 @@ C:\Users\foxle\Documents\GitHub\FractalsPainter\Fractals\Fractals\App.xaml
 1951776020293
 MainWindow.xaml;
 
-False
+True
 
