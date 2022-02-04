@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FractalsDrawer/1.0.0": {
+        "dependencies": {
+          "MaterialDesignThemes": "4.4.0-ci69"
+        },
+        "runtime": {
+          "FractalsDrawer.dll": {}
+        }
+      },
+      "MaterialDesignColors/2.0.5-ci69": {
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "assemblyVersion": "2.0.5.0",
+            "fileVersion": "2.0.5.0"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.4.0-ci69": {
+        "dependencies": {
+          "MaterialDesignColors": "2.0.5-ci69"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FractalsDrawer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialDesignColors/2.0.5-ci69": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xVKx/VCTjOIJ0dZKzayvQ/+Djp/WrTCHv2B55/RdGyWzQdTYkXRSgC9SvNUWMkD1yz2ixZViXmDI4SJkBLOcXQ==",
+      "path": "materialdesigncolors/2.0.5-ci69",
+      "hashPath": "materialdesigncolors.2.0.5-ci69.nupkg.sha512"
+    },
+    "MaterialDesignThemes/4.4.0-ci69": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mz3e33tBMAEOV1EoHGeXz+wN1J3te81iOp80Os0qUay+vvfHg7+AnTK2nUdJJIYCv0kUM2p8x8txwF03cpDdHw==",
+      "path": "materialdesignthemes/4.4.0-ci69",
+      "hashPath": "materialdesignthemes.4.4.0-ci69.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROE4TWjDRaIqa2Axhs9jeFRolSL1YPcK2vJJPpzozezZpE8kVlnTqRzJci6PRoPX0WWBUJ8adBXPB/6ZrUqCPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\foxle\\Desktop\\1\\FractalsDrawer\\FractalsDrawer\\FractalsDrawer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\foxle\\.nuget\\packages\\materialdesigncolors\\2.0.5-ci69\\materialdesigncolors.2.0.5-ci69.nupkg.sha512",
+    "C:\\Users\\foxle\\.nuget\\packages\\materialdesignthemes\\4.4.0-ci69\\materialdesignthemes.4.4.0-ci69.nupkg.sha512"
+  ],
+  "logs": []
+}
